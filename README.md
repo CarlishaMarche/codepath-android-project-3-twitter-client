@@ -4,6 +4,15 @@ Simple Tweets is an android app that allows a user to view his Twitter timeline 
 
 Time spent: 5 hours spent in total
 
+## Related Work
+This project is the fourth in a series for [CodePath's Android Mobile Bootcamp for Engineers](http://codepath.com/androidbootcamp)
+
+* **Pre-work - [SimpleTodo](https://github.com/kristeaac/codepath-project-0-todo)** - allows building a todo list with basic todo items management functionality including adding new items, editing and deleting an existing item
+* **Project 1 - [Instagram Photo Viewer](https://github.com/kristeaac/codepath-project-1-instagram-photo-viewer)** - read-only media viewer for Instagram which allows a user to check out popular photos and videos 
+* **Project 2 - [Google Image Search](https://github.com/kristeaac/codepath-project-2-google-image-search)** - a Google Image Search app which allows a user to select search filters and paginate results infinitely
+* **Project 3 - Simple Tweets** - a simple Twitter client that supports viewing a Twitter timeline and composing a new tweet
+* **Project 4 - [Extended Simple Tweets](https://github.com/kristeaac/codepath-project-4-extended-twitter-client)** - an extension of the previous Twitter client to use a tabbed interface and fragments
+
 ## User Stories
 
 The following **required** functionality is completed:
